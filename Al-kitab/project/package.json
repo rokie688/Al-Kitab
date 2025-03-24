@@ -1,9 +1,0 @@
-{
-  "scripts": {
-    "start": "servor --reload",
-    "build": "mkdir -p dist && cp -r index.html Mathematics dist/"
-  },
-  "dependencies": {
-    "servor": "^4.0.2"
-  }
-}
